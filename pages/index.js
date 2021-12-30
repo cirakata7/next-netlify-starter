@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="nitishjeet7<del>.ml</del> <br>to<br> nitishjeet7.online" />
-//         <p className="description">
-//           Get started by editing <code>pages/index.js</code>
-//         </p>
+        <p className="description">
+          Get started by <del> editing</del> <code>pages/index.js</code>
+        </p>
       </main>
 
       <Footer />

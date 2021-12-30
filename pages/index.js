@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="nitishjeet7.ml to nitishjeet7.online" />
+        <Header title="nitishjeet7<del>.ml</del> <br>to<br> nitishjeet7.online" />
 //         <p className="description">
 //           Get started by editing <code>pages/index.js</code>
 //         </p>

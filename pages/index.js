@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title=".hello" />
         <p className="description">
-          <code>nitishjeet7<del>.ml</del></code> to <code>nitishjeet7.online</code>
+          <code><del>nitishjeet7.ml</del></code> to <code>nitishjeet7.online</code>
         </p>
       </main>
 

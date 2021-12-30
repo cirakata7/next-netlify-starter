@@ -11,10 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="nitishjeet7.ml to nitishjeet7.online" />
+//         <p className="description">
+//           Get started by editing <code>pages/index.js</code>
+//         </p>
       </main>
 
       <Footer />
